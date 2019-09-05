@@ -17,3 +17,6 @@ Requirements:
 Just run script with a subnet 
 
 eg: python scan_network.py 192.168.1.0/24
+
+## Warning
+IBG Logger is configured to use with google's gmail smtp relay (Because we use so). You'll need to reconfigure to use with your own email service.
