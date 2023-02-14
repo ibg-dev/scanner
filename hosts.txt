@@ -1,5 +1,2 @@
-#Basic Web
 .yahoo.com
-
-#other
 .dalan.com
