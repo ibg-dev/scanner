@@ -1,1 +1,2 @@
 0.0.0.0 ibg.edu.tr
+0.0.0.0 deu.edu.tr
